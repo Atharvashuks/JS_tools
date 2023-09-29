@@ -5,14 +5,14 @@ const fs = require("fs");
 
 const search = new SerpApi.GoogleSearch(process.env.API_KEY);
 
-const searchQuery = "chihuahua";
+const searchQuery = "vada pav"; // enter your search query
 
 const params = {
-  q: searchQuery, // what we want to search
-  engine: "google", // search engine
-  hl: "en", // parameter defines the language to use for the Google search
-  gl: "us", // parameter defines the country to use for the Google search
-  tbm: "isch", // parameter defines the type of search you want to do (isch - Google Images)
+  q: searchQuery,
+  engine: "google",
+  hl: "en",
+  gl: "us",
+  tbm: "isch",
 };
 
 const getJson = () => {
