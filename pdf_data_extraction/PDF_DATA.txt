@@ -1,0 +1,118 @@
+
+
+ATHARVA A SHUKLA
+FULL STACK DEVELOPER
+Highly driven full-stack developer skilled in front-end and back-end development, seeking a role to 
+apply my abilities to the best advantage of the company while having the opportunity to improve my 
+own skills.
+atharvashuklaas@gmail.com+91 8527047365Noida, India
+linkedIn
+github
+EDUCATION 
+B.Tech
+
+Computer Science Engineering
+
+Oct 2020 - July 2024
+
+CGPA: 7.5
+
+     Faridabad, India
+
+
+Higher Secondary
+
+PCM with CS
+
+2018 -  2020
+
+CBSE Board: 85%
+
+     New Delhi, India
+
+
+
+
+Manav Rachna University
+
+
+Air Force Golden Jubilee Institute
+
+
+Application Developer
+
+       June 2022 - August 202
+(Tech Stack in use: react-native, firebase ,Nodejs ,GCP, 
+aws
+
+(Developed application programming Interfaces to connect 
+the application with GCP
+
+(Ensure application’s ability to interact with multiple API’s 
+and database
+
+(Conducted Unit testing which increased the efficiency of 
+application
+
+(Optimized the code base.
+
+
+Hobit Technologies
+
+
+Front End Developer
+
+       April 2022 - August 202v
+(Developed 3 - 4 web applications in collaboration.
+(Guided juniors in the field of web development and 
+conducted workshop^
+(Tech Stack : React JS, React Native, Node js, MongoDB
+
+(Developed admin panel
+
+(Gained hands on experience in Node Js, Express , and 
+similar backend frameworks as well as front frameworks 
+and web application framework
+
+(Gained experience in team work.
+
+
+RCC - MRU
+
+
+WORK EXPERIENCE
+SKILLS
+(HTML, CSS, JAVASCRIP ̧
+(React JS, React Nativ³
+(Node JS, Express JS, Jav±
+(MongoDÄ
+(GCP, Firebas³
+(Git, Github
+PROJECTS
+BlogrieÓ
+Restaurant Websit×
+(Full stack MERN web-application
+
+(Blogries is a blogging web-app where users can 
+express their thoughts
+
+(This is developed using React JS, Node JS, 
+express, mongoDB atlas
+
+(Website is enabled with full authorization. Users 
+need to login to create their own posts, however 
+they can read other people’s post without logging 
+in
+
+(Users can create, update and delete their posts
+
+(Google auth is also enabled.
+
+
+(Developed beautiful website using React Js and 
+scss
+
+(Beautiful Front-End design made with simple 
+techniques
+
+(This is a static website

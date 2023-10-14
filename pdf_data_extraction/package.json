@@ -1,0 +1,23 @@
+{
+  "name": "js_pdf_extraction",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_pdf": "node pdfParser.js",
+    "dev_pdf": "nodemon pdfParser.js",
+    "start_img": "node imageExtractor.js",
+    "dev_img": "nodemon imageExtractor.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "pdf-image": "^2.0.0",
+    "pdf-parse": "^1.1.1",
+    "pdf-parser": "^1.0.5",
+    "sharp": "^0.32.6",
+    "tesseract.js": "^5.0.2"
+  }
+}
