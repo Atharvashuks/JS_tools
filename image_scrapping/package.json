@@ -8,11 +8,11 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Atharva A Shukla Atharvashuks",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
     "google-search-results-nodejs": "^2.1.0",
     "https": "^1.0.0"
   },
