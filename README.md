@@ -10,11 +10,14 @@ Feel free to explore the tools, contribute to their development, and use them as
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Repository Structure](#repository-structure)
-3. [Contributing](#contributing)
-4. [Usage](#usage)
-5. [License](#license)
+- [JS\_tools](#js_tools)
+- [Dev Tools in JavaScript](#dev-tools-in-javascript)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Repository Structure](#repository-structure)
+  - [Contributing](#contributing)
+  - [Usage](#usage)
+  - [License](#license)
 
 ## Introduction
 
@@ -26,6 +29,7 @@ The repository contains a variety of JavaScript tools, each with its own directo
 
 - **Image scrapping**: This is a straightforward JavaScript tool designed for web scraping images. For more detailed information and instructions, please refer to the README file in the tool's directory. Feel free to explore, use, and contribute to this tool as needed.
 - **Pdf data extraction**: This is a basic JavaScript tool for extracting data from PDF documents. For more detailed information and instructions, please refer to the README file in the tool's directory. Feel free to explore, use, and contribute to this tool as needed.
+- **Browser automation**: Browser automation tool using selenium
   
 
 Feel free to explore the tools and their documentation within their respective directories. Each tool may include usage examples, detailed instructions, and any prerequisites for successful implementation.

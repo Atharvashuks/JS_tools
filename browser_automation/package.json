@@ -1,0 +1,17 @@
+{
+  "name": "browser_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^118.0.0",
+    "selenium-webdriver": "^4.14.0"
+  }
+}
