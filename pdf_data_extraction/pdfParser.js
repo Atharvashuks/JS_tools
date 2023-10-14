@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("fs-extra");
 const pdf = require("pdf-parse");
 
 async function extractTextFromPDF(pdfFilePath) {
