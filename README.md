@@ -54,6 +54,5 @@ Each tool's directory should contain detailed information on its purpose, instal
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the tools. However, please make sure to review the specific license information within each tool's directory, as some tools may have different licensing terms.
-
+This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the tools.
 Happy coding and enjoy these JavaScript development tools!
